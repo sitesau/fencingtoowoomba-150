@@ -1,0 +1,22 @@
+{
+  "wheel_id": 455,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-150",
+  "project": "fencing-contractors-toowoomba-ba454e72f3b013ba76c70d9bd39ff72c0",
+  "parent_t1_ref": "fencingtoowoomba-006",
+  "node_role": "buffer",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba",
+  "intended_url": "http://fencing-contractors-toowoomba-ba454e72f3b013ba76c70d9bd39ff72c0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "4dd1447356a62427",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/fencing-contractors-toowoomba-006/",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
